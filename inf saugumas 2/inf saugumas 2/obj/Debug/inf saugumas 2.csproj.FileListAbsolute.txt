@@ -1,0 +1,10 @@
+c:\users\herqs\source\repos\inf saugumas 2\inf saugumas 2\obj\Debug\inf saugumas 2.csprojResolveAssemblyReference.cache
+c:\users\herqs\source\repos\inf saugumas 2\inf saugumas 2\obj\Debug\inf_saugumas_2.Form1.resources
+c:\users\herqs\source\repos\inf saugumas 2\inf saugumas 2\obj\Debug\inf_saugumas_2.Properties.Resources.resources
+c:\users\herqs\source\repos\inf saugumas 2\inf saugumas 2\obj\Debug\inf saugumas 2.csproj.GenerateResource.Cache
+c:\users\herqs\source\repos\inf saugumas 2\inf saugumas 2\obj\Debug\inf saugumas 2.csproj.CoreCompileInputs.cache
+c:\users\herqs\source\repos\inf saugumas 2\inf saugumas 2\bin\Debug\inf saugumas 2.exe.config
+c:\users\herqs\source\repos\inf saugumas 2\inf saugumas 2\bin\Debug\inf saugumas 2.exe
+c:\users\herqs\source\repos\inf saugumas 2\inf saugumas 2\bin\Debug\inf saugumas 2.pdb
+c:\users\herqs\source\repos\inf saugumas 2\inf saugumas 2\obj\Debug\inf saugumas 2.exe
+c:\users\herqs\source\repos\inf saugumas 2\inf saugumas 2\obj\Debug\inf saugumas 2.pdb
